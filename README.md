@@ -22,7 +22,8 @@ Rgsoc aspirants, please refer the project_template repo: https://github.com/Cont
 * python3 -m venv myvenv
 * source myvenv/bin/activate (Activate Virtual Environment)
 * sudo apt install nodejs
-*  sudo apt install libpq-dev python3-dev gcc
+* sudo apt install libpq-dev python3-dev gcc
+* sudo apt-get install python-psycopg2
 * sudo npm i -g npx
 * npm config set proxy http://proxy_host:port (For setting proxy, if required)
 * ```npm config delete proxy``` and ```npm config delete https-proxy``` (For removing proxy, if required)
