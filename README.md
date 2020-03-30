@@ -27,15 +27,15 @@ Rgsoc aspirants, please refer the project_template repo: https://github.com/Cont
 * ```npm config delete proxy``` and ```npm config delete https-proxy``` (For removing proxy, if required)
 * pip3 install -r requirements.txt
 
+### Start Django Server
+* Open a New Terminal and activate virtual environment (source myvenv/bin/activate)
+* python manage.py migrate
+* python manage.py makemigrations
+* python manage.py runserver
+
 ### Start React Server
 * Open a New Terminal
 * Setup Intructions are available [here](https://github.com/ContriFOSS/ContriFOSS-Frontend)
 * cd frontend
 * npm install
 * npm run start
-
-### Start Django Server
-* Open a New Terminal and activate virtual environment (source myvenv/bin/activate)
-* python manage.py migrate
-* python manage.py makemigrations
-* python manage.py runserver
