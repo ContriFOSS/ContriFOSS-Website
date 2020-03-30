@@ -36,6 +36,3 @@ Rgsoc aspirants, please refer the project_template repo: https://github.com/Cont
 ### Start React Server
 * Open a New Terminal
 * Setup Intructions are available [here](https://github.com/ContriFOSS/ContriFOSS-Frontend)
-* cd frontend
-* npm install
-* npm run start
