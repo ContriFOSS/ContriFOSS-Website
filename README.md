@@ -28,7 +28,6 @@ Rgsoc aspirants, please refer the project_template repo: https://github.com/Cont
 * pip3 install -r requirements.txt
 
 ### Start Django Server
-* Open a New Terminal and activate virtual environment (source myvenv/bin/activate)
 * python manage.py migrate
 * python manage.py makemigrations
 * python manage.py runserver
