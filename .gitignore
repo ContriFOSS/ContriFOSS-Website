@@ -1,3 +1,9 @@
-contrifoss_api/__pycache__/
-contrifoss_api/migrations/__pycache__/
-contrifoss/__pycache__/
+*.pyc
+*~
+__pycache__
+db.sqlite3
+__pycache__/
+myvenv/
+*.py.swp
+*/db.sqlite3
+*/__pycache__
